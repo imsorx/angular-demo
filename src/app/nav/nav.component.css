@@ -1,0 +1,35 @@
+.navbar{
+    width: 100%;
+    margin-top: 20px;
+}
+.navbar>ul{
+    padding: 0px;
+    width: 300px;
+    margin: auto;
+    list-style-type:none;
+    background: rgba(255, 255, 255,0.2);
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, .04) 0 5px 20px;
+    text-align: center;
+    backface-visibility: hidden;
+}
+.navbar>ul>li{
+    display: inline-block;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 5px;
+    padding: 6px 12px 6px 12px;
+    text-shadow: rgba(0, 0, 0, .1) 0 5px 20px;
+    transition: all 100ms;
+}
+.navbar>ul>li:hover{
+    transform: scale(1.05);
+}
+.navbar .active{
+    border-bottom: solid 2px rgba(255, 255, 255, 0.5)
+}
+.navbar>ul>li>a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
