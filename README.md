@@ -4,7 +4,7 @@
 A tiny project build with Angular.
 
 > **Features used**
-* *Angular CLI
+* *Angular CLI*
 * *Anuglar Directive*
 * *Angular Components*
 * *Anuglar Routes*
