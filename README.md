@@ -1,7 +1,7 @@
 # Angular Demo
 ![](https://angular.io/assets/images/logos/angular/angular_solidBlack.png)
 
-A tiny project build with Anuglar.
+A tiny project build with Angular.
 
 > **Features used**
 * *Angular CLI
